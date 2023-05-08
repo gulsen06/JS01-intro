@@ -52,7 +52,7 @@ console.log(typeof toplam);
 console.log(toplam + 10);
 //STRING
 let str = "10.eleman";
-console.log(str + "cok basarili oldu");
+console.log(str + "cok basarili oldu"); //!contanat -strin birlestirme
 //Boolean
 let kontrol = false;
 console.log(kontrol);
